@@ -1,0 +1,25 @@
+git clone https://github.com/langchain-ai/langchain-academy.git
+$ cd langchain-academy
+$ python3 -m venv lc-academy-env
+$ source lc-academy-env/bin/activate
+$ pip install -r requirements.txt
+
+LANGSMITH_API_KEY="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"
+LANGSMITH_TRACING_V2=true
+LANGSMITH_PROJECT="langchain-academy"
+
+OPENAI_API_KEY="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"
+
+TAVILY_API_KEY="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"
+
+# 변경된 파일 확인
+git status
+
+# 변경 파일 스테이징
+git add .
+
+# 커밋
+git commit -m "작업 내용 설명"
+
+# 원격 저장소로 push
+git push origin main
