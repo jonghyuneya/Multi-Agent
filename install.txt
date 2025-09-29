@@ -1,0 +1,12 @@
+pip install langchain_openai
+pip install langgraph
+pip install pydantic
+pip install langchain_core
+pip install langchain_community
+pip install langchain_openai
+pip install langchain_core
+pip install langchain_community
+pip install langchain_openai
+pip install -U langsmith
+pip install streamlit
+pip install pytz

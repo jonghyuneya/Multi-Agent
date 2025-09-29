@@ -1,0 +1,2 @@
+NaverAPI_KEY="PJQcK3PHPeFO1DyEo3ju"
+NaverAPI_SECRET="rwtF09jXZG"
