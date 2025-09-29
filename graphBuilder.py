@@ -1,5 +1,3 @@
-from IPython.display import Image, display
-
 from langsmith import traceable, trace
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import MessagesState
@@ -56,5 +54,3 @@ builder.add_edge("tools", "assistant")
 memory = MemorySaver()
 graph = builder.compile(interrupt_before=["assistant"], checkpointer=memory)
 # 여기 컴파일 부분에서 interrupt 사용
-# Show
-display(Image(graph.get_graph(xray=True).draw_mermaid_png()))
