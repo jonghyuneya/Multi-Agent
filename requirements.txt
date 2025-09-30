@@ -1,0 +1,11 @@
+# --- LangChain ecosystem ---
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+langsmith>=0.1.99
+
+# --- Runtime / framework ---
+pydantic>=2
+streamlit
+pytz
