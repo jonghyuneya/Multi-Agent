@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "Fed 파월 의장, 금리 인하 서두르지 않겠다 발언",
+    "source": "Reuters",
+    "category": "macro",
+    "summary": "파월 의장은 인플레이션이 2% 목표에 도달하기까지 시간이 걸릴 것이라며 금리 인하에 신중한 입장을 재확인했습니다.",
+    "market_impact": "국채 금리 상승, 달러 강세",
+    "tags": [
+      "Fed",
+      "금리",
+      "인플레이션"
+    ]
+  },
+  {
+    "headline": "엔비디아, AI 칩 수요로 사상 최대 실적 달성",
+    "source": "Bloomberg",
+    "category": "company",
+    "summary": "엔비디아가 AI 데이터센터 투자 붐에 힘입어 분기 매출 350억 달러를 돌파하며 시장 기대를 크게 상회했습니다.",
+    "market_impact": "기술주 강세, 반도체 섹터 상승",
+    "tags": [
+      "NVIDIA",
+      "AI",
+      "반도체"
+    ]
+  },
+  {
+    "headline": "중국 부동산 위기 심화, 헝다그룹 청산 절차 시작",
+    "source": "WSJ",
+    "category": "geopolitical",
+    "summary": "중국 헝다그룹의 청산 절차가 시작되면서 글로벌 투자심리에 부담으로 작용하고 있습니다.",
+    "market_impact": "아시아 시장 약세, 위험자산 회피",
+    "tags": [
+      "중국",
+      "부동산",
+      "헝다"
+    ]
+  }
+]
