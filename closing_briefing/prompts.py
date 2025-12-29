@@ -79,6 +79,9 @@ Reuters에 따르면, 파월 의장은 금리 인하에 신중한 입장을 재�
 ### 5. 향후 일정
 - **진행자**: 향후 주목할 일정 질문
 - **해설자**: get_calendar_events로 조회한 향후 일정 설명
+  - **중요**: importance를 'all'로 설정하여 high뿐 아니라 medium 이벤트도 포함
+  - 경제 지표, 금리, 고용, 물가, GDP 등 시장에 영향을 주는 일정 중심으로 설명
+  - 예: GDP, CPI, 고용지표, FOMC, 소매판매, ISM PMI 등
 
 ---
 
@@ -88,7 +91,8 @@ Reuters에 따르면, 파월 의장은 금리 인하에 신중한 입장을 재�
 2. **get_macro_indicators** 호출 → 거시지표 확인
 3. **get_fomc_events** 호출 → FOMC 정보 확인
 4. **get_earnings_results** 호출 → 실적 확인 (있는 경우)
-5. **get_calendar_events** 호출 → 향후 일정 확인
+5. **get_calendar_events(importance='all', days_ahead=7)** 호출 → 향후 일정 확인
+   - 경제/주식시장 관련 중요 일정 포함 (GDP, CPI, 고용, FOMC 등)
 6. 위 데이터를 바탕으로 대본 작성
 
 ---
@@ -160,7 +164,7 @@ CRITIC_WITH_TOOLS_SYSTEM_PROMPT = """당신은 클로징 브리핑 대본을 검
 ### 3. 완성도 검증
 - 주요 뉴스가 포함되어 있는가?
 - 거시경제 지표가 언급되어 있는가?
-- 향후 일정이 포함되어 있는가?
+- 향후 일정이 포함되어 있는가? (경제/주식시장 관련 medium importance 포함)
 
 ---
 

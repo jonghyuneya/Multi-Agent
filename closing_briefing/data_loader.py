@@ -77,11 +77,25 @@ class ClosingBriefingDataLoader:
         
         sources: Dict[str, Any] = self._get_empty_sources()
         
-        # Try loading from te_scraper_output structure (CSV files)
+        # First, check if source_path IS the te_calendar_scraper output directory
+        # (has calendar, indicators, fomc_press_conferences subdirectories)
+        calendar_dir = self.source_path / "calendar"
+        indicators_dir = self.source_path / "indicators"
+        fomc_dir = self.source_path / "fomc_press_conferences"
+        
+        if calendar_dir.exists() or indicators_dir.exists() or fomc_dir.exists():
+            logger.info("Found te_calendar_scraper output structure, loading CSV data...")
+            sources.update(self._load_from_te_scraper(self.source_path))
+        
+        # Also try loading from te_scraper_output subdirectory (legacy structure)
         te_scraper_dir = self.source_path / "te_scraper_output"
         if te_scraper_dir.exists():
             logger.info("Found te_scraper_output directory, loading CSV data...")
-            sources.update(self._load_from_te_scraper(te_scraper_dir))
+            loaded = self._load_from_te_scraper(te_scraper_dir)
+            # Merge, don't overwrite if already loaded
+            for key, value in loaded.items():
+                if not sources.get(key):
+                    sources[key] = value
         
         # Try loading from processed JSON (from econ_briefing pipeline)
         processed_dir = self.source_path / "processed"
