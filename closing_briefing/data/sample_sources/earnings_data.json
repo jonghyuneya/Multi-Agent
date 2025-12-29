@@ -1,0 +1,50 @@
+[
+  {
+    "company_name": "NVIDIA",
+    "ticker": "NVDA",
+    "eps_actual": 5.16,
+    "eps_estimate": 4.85,
+    "revenue_actual": 35100000000.0,
+    "revenue_estimate": 33000000000.0,
+    "yoy_growth_pct": 94,
+    "beat_or_miss": "beat",
+    "sector": "Technology",
+    "key_drivers": [
+      "AI 데이터센터 수요 급증",
+      "Hopper GPU 출하량 증가"
+    ],
+    "stock_reaction": "+8% 상승"
+  },
+  {
+    "company_name": "Salesforce",
+    "ticker": "CRM",
+    "eps_actual": 2.41,
+    "eps_estimate": 2.35,
+    "revenue_actual": 9440000000.0,
+    "revenue_estimate": 9350000000.0,
+    "yoy_growth_pct": 11,
+    "beat_or_miss": "beat",
+    "sector": "Technology",
+    "key_drivers": [
+      "AI 기반 CRM 솔루션 성장",
+      "구독 매출 안정"
+    ],
+    "stock_reaction": "+5% 상승"
+  },
+  {
+    "company_name": "Dollar General",
+    "ticker": "DG",
+    "eps_actual": 1.7,
+    "eps_estimate": 1.95,
+    "revenue_actual": 10200000000.0,
+    "revenue_estimate": 10500000000.0,
+    "yoy_growth_pct": -3,
+    "beat_or_miss": "miss",
+    "sector": "Consumer Discretionary",
+    "key_drivers": [
+      "소비자 지출 둔화",
+      "가격 저항 심화"
+    ],
+    "stock_reaction": "-12% 하락"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "date": "2025-12-04",
+  "indices": {
+    "S&P 500": {
+      "close": 6050.23,
+      "change_pct": 0.85
+    },
+    "NASDAQ": {
+      "close": 19450.67,
+      "change_pct": 1.23
+    },
+    "DOW": {
+      "close": 44250.12,
+      "change_pct": 0.42
+    }
+  },
+  "sectors": {
+    "Technology": "+1.5%",
+    "Healthcare": "+0.3%",
+    "Energy": "-0.8%",
+    "Financials": "+0.6%",
+    "Consumer Discretionary": "-0.4%"
+  },
+  "vix": 14.5,
+  "dollar_index": 106.2
+}

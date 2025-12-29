@@ -1,0 +1,17 @@
+indicator_bucket,indicator_name,latest_value,unit,day_change,month_change,year_change,obs_date,source_url,raw_source_note
+CPI,CPI MoM,0.3,percent,,,,2025-09-01,https://tradingeconomics.com/united-states/inflation-rate-mom,symbol=unitedstainfratmom; points=12; frequency=monthly
+CPI,CPI YoY,3,percent,,,,2025-09-01,https://tradingeconomics.com/united-states/inflation-cpi,symbol=cpi yoy; points=12; frequency=monthly
+CPI,Core CPI MoM,0.2,percent,,,,2025-09-01,https://tradingeconomics.com/united-states/core-inflation-rate-mom,symbol=usacirm; points=12; frequency=monthly
+CPI,Core CPI YoY,3,percent,,,,2025-09-01,https://tradingeconomics.com/united-states/core-inflation-rate,symbol=usacorecpirate; points=12; frequency=monthly
+EIA,Crude Oil Inventories,2.774,BBL/1Million,,,,2025-11-21,https://tradingeconomics.com/united-states/crude-oil-stocks-change,symbol=unitedstacruoilstoch; points=12; frequency=weekly
+EIA,Distillate Inventories,1147,Thousand Barrels,,,,2025-11-21,https://tradingeconomics.com/united-states/distillate-fuel-oil-stocks-change,symbol=unitedstadissto; points=12; frequency=weekly
+EIA,Gasoline Inventories,2513,Thousand Barrels,,,,2025-11-21,https://tradingeconomics.com/united-states/gasoline-stocks-change,symbol=unitedstagasstocha; points=12; frequency=weekly
+EIA,Natural Gas Storage,-11,billion cubic feet,,,,2025-11-21,https://tradingeconomics.com/united-states/natural-gas-stocks-change,symbol=unitedstanatgasstoch; points=12; frequency=weekly
+ISM,ISM Composite PMI,54.8,points,,,,2025-11-01,https://tradingeconomics.com/united-states/composite-pmi,symbol=unitedstacompmi; points=12; frequency=monthly
+ISM,ISM Manufacturing PMI,51.9,points,,,,2025-11-01,https://tradingeconomics.com/united-states/manufacturing-pmi,symbol=unitedstamanpmi; points=12; frequency=monthly
+ISM,ISM Services PMI,55,points,,,,2025-11-01,https://tradingeconomics.com/united-states/services-pmi,symbol=unitedstaserpmi; points=12; frequency=monthly
+UST,US 10Y Yield,3.999,percent,-0.001,,,2025-11-26,https://tradingeconomics.com/united-states/government-bond-yield,symbol=usgg10yr:ind; points=257; frequency=intraday
+UST,US 2Y Yield,3.485,percent,0.02,,,2025-11-26,https://tradingeconomics.com/united-states/government-bond-yield,symbol=usgg2yr:ind; points=258; frequency=intraday
+UST,US 30Y Yield,4.644,percent,-0.007,,,2025-11-26,https://tradingeconomics.com/united-states/government-bond-yield,symbol=usgg30y:ind; points=258; frequency=intraday
+UST,US 3M Yield,3.848,percent,0.056,,,2025-11-26,https://tradingeconomics.com/united-states/government-bond-yield,symbol=usgg3m:ind; points=256; frequency=intraday
+UST,US 5Y Yield,3.574,percent,-0.002,,,2025-11-26,https://tradingeconomics.com/united-states/government-bond-yield,symbol=usgg5yr:ind; points=257; frequency=intraday

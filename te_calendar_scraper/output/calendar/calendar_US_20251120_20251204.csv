@@ -1,0 +1,164 @@
+datetime_utc,datetime_kst,title,category,impact,country,raw_time_text,source_url
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Average Hourly Earnings MoM,Average Hourly Earnings,2,United States,01:30 PM,https://tradingeconomics.com/united-states/average-hourly-earnings
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Average Hourly Earnings YoY,Average Hourly Earnings Yoy,2,United States,01:30 PM,https://tradingeconomics.com/united-states/average-hourly-earnings-yoy
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Average Weekly Hours,Average Weekly Hours,1,United States,01:30 PM,https://tradingeconomics.com/united-states/average-weekly-hours
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Continuing Jobless Claims,Continuing Jobless Claims,1,United States,01:30 PM,https://tradingeconomics.com/united-states/continuing-jobless-claims
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Government Payrolls,Government Payrolls,1,United States,01:30 PM,https://tradingeconomics.com/united-states/government-payrolls
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Initial Jobless Claims,Initial Jobless Claims,2,United States,01:30 PM,https://tradingeconomics.com/united-states/jobless-claims
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Jobless Claims 4-week Average,Jobless Claims 4-Week Average,1,United States,01:30 PM,https://tradingeconomics.com/united-states/jobless-claims-4-week-average
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Manufacturing Payrolls,Manufacturing Payrolls,1,United States,01:30 PM,https://tradingeconomics.com/united-states/manufacturing-payrolls
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Non Farm Payrolls,Non Farm Payrolls,3,United States,01:30 PM,https://tradingeconomics.com/united-states/non-farm-payrolls
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Nonfarm Payrolls Private,Nonfarm Payrolls Private,1,United States,01:30 PM,https://tradingeconomics.com/united-states/nonfarm-payrolls-private
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Participation Rate,Labor Force Participation Rate,2,United States,01:30 PM,https://tradingeconomics.com/united-states/labor-force-participation-rate
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Philadelphia Fed Manufacturing Index,Philadelphia Fed Manufacturing Index,2,United States,01:30 PM,https://tradingeconomics.com/united-states/philadelphia-fed-manufacturing-index
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Philly Fed Business Conditions,Philly Fed Business Conditions,1,United States,01:30 PM,https://tradingeconomics.com/united-states/philly-fed-business-conditions
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Philly Fed CAPEX Index,Philly Fed Capex Index,1,United States,01:30 PM,https://tradingeconomics.com/united-states/philly-fed-capex-index
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Philly Fed Employment,Philly Fed Employment,1,United States,01:30 PM,https://tradingeconomics.com/united-states/philly-fed-employment
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Philly Fed New Orders,Philly Fed New Orders,1,United States,01:30 PM,https://tradingeconomics.com/united-states/philly-fed-new-orders
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Philly Fed Prices Paid,Philly Fed Prices Paid,1,United States,01:30 PM,https://tradingeconomics.com/united-states/philly-fed-prices-paid
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,U-6 Unemployment Rate,U6 Unemployment Rate,1,United States,01:30 PM,https://tradingeconomics.com/united-states/u6-unemployment-rate
+2025-11-20T13:30:00+00:00,2025-11-20T22:30:00+09:00,Unemployment Rate,Unemployment Rate,3,United States,01:30 PM,https://tradingeconomics.com/united-states/unemployment-rate
+2025-11-20T13:45:00+00:00,2025-11-20T22:45:00+09:00,Fed Hammack Speech,Interest Rate,2,United States,01:45 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-20T14:30:00+00:00,2025-11-20T23:30:00+09:00,Fed Barr Speech,Interest Rate,2,United States,02:30 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-20T15:00:00+00:00,2025-11-21T00:00:00+09:00,Existing Home Sales,Existing Home Sales,3,United States,03:00 PM,https://tradingeconomics.com/united-states/existing-home-sales
+2025-11-20T15:00:00+00:00,2025-11-21T00:00:00+09:00,Existing Home Sales MoM,Existing Home Sales Mom,2,United States,03:00 PM,https://tradingeconomics.com/united-states/existing-home-sales-mom
+2025-11-20T15:30:00+00:00,2025-11-21T00:30:00+09:00,EIA Natural Gas Stocks Change,Natural Gas Stocks Change,1,United States,03:30 PM,https://tradingeconomics.com/united-states/natural-gas-stocks-change
+2025-11-20T16:00:00+00:00,2025-11-21T01:00:00+09:00,Fed Cook Speech,Interest Rate,2,United States,04:00 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-20T16:00:00+00:00,2025-11-21T01:00:00+09:00,Kansas Fed Composite Index,Kansas Fed Composite Index,1,United States,04:00 PM,https://tradingeconomics.com/united-states/kansas-fed-composite-index
+2025-11-20T16:00:00+00:00,2025-11-21T01:00:00+09:00,Kansas Fed Manufacturing Index,Kansas Fed Manufacturing Index,1,United States,04:00 PM,https://tradingeconomics.com/united-states/kansas-fed-manufacturing-index
+2025-11-20T16:30:00+00:00,2025-11-21T01:30:00+09:00,4-Week Bill Auction,4 Week Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/4-week-bill-yield
+2025-11-20T16:30:00+00:00,2025-11-21T01:30:00+09:00,8-Week Bill Auction,8 Week Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/8-week-bill-yield
+2025-11-20T17:00:00+00:00,2025-11-21T02:00:00+09:00,15-Year Mortgage Rate,15 Year Mortgage Rate,1,United States,05:00 PM,https://tradingeconomics.com/united-states/15-year-mortgage-rate
+2025-11-20T17:00:00+00:00,2025-11-21T02:00:00+09:00,30-Year Mortgage Rate,30 Year Mortgage Rate,1,United States,05:00 PM,https://tradingeconomics.com/united-states/30-year-mortgage-rate
+2025-11-20T17:40:00+00:00,2025-11-21T02:40:00+09:00,Fed Goolsbee Speech,Interest Rate,2,United States,05:40 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-20T18:00:00+00:00,2025-11-21T03:00:00+09:00,10-Year TIPS Auction,10 Year Tips Yield,1,United States,06:00 PM,https://tradingeconomics.com/united-states/10-year-tips-yield
+2025-11-20T21:30:00+00:00,2025-11-21T06:30:00+09:00,Fed Balance Sheet,Central Bank Balance Sheet,1,United States,09:30 PM,https://tradingeconomics.com/united-states/central-bank-balance-sheet
+2025-11-20T23:15:00+00:00,2025-11-21T08:15:00+09:00,Fed Miran Speech,Interest Rate,2,United States,11:15 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-21T12:30:00+00:00,2025-11-21T21:30:00+09:00,Fed Williams Speech,Interest Rate,2,United States,12:30 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-21T13:30:00+00:00,2025-11-21T22:30:00+09:00,Fed Barr Speech,Interest Rate,2,United States,01:30 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-21T13:45:00+00:00,2025-11-21T22:45:00+09:00,Fed Jefferson Speech,Interest Rate,2,United States,01:45 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-21T14:00:00+00:00,2025-11-21T23:00:00+09:00,Fed Collins Speech,Interest Rate,2,United States,02:00 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-21T14:00:00+00:00,2025-11-21T23:00:00+09:00,Fed Logan Speech,Interest Rate,2,United States,02:00 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-21T14:45:00+00:00,2025-11-21T23:45:00+09:00,S&P Global Composite PMI Flash,Composite Pmi,2,United States,02:45 PM,https://tradingeconomics.com/united-states/composite-pmi
+2025-11-21T14:45:00+00:00,2025-11-21T23:45:00+09:00,S&P Global Manufacturing PMI Flash,Manufacturing Pmi,2,United States,02:45 PM,https://tradingeconomics.com/united-states/manufacturing-pmi
+2025-11-21T14:45:00+00:00,2025-11-21T23:45:00+09:00,S&P Global Services PMI Flash,Services Pmi,2,United States,02:45 PM,https://tradingeconomics.com/united-states/services-pmi
+2025-11-21T15:00:00+00:00,2025-11-22T00:00:00+09:00,Michigan 5 Year Inflation Expectations Final,Michigan 5 Year Inflation Expectations,1,United States,03:00 PM,https://tradingeconomics.com/united-states/michigan-5-year-inflation-expectations
+2025-11-21T15:00:00+00:00,2025-11-22T00:00:00+09:00,Michigan Consumer Expectations Final,Michigan Consumer Expectations,1,United States,03:00 PM,https://tradingeconomics.com/united-states/michigan-consumer-expectations
+2025-11-21T15:00:00+00:00,2025-11-22T00:00:00+09:00,Michigan Consumer Sentiment Final,Consumer Confidence,2,United States,03:00 PM,https://tradingeconomics.com/united-states/consumer-confidence
+2025-11-21T15:00:00+00:00,2025-11-22T00:00:00+09:00,Michigan Current Conditions Final,Michigan Current Economic Conditions,1,United States,03:00 PM,https://tradingeconomics.com/united-states/michigan-current-economic-conditions
+2025-11-21T15:00:00+00:00,2025-11-22T00:00:00+09:00,Michigan Inflation Expectations Final,Michigan Inflation Expectations,1,United States,03:00 PM,https://tradingeconomics.com/united-states/michigan-inflation-expectations
+2025-11-21T15:00:00+00:00,2025-11-22T00:00:00+09:00,Wholesale Inventories MoM,Wholesale Inventories,1,United States,03:00 PM,https://tradingeconomics.com/united-states/wholesale-inventories
+2025-11-21T18:00:00+00:00,2025-11-22T03:00:00+09:00,Baker Hughes Oil Rig Count,Crude Oil Rigs,1,United States,06:00 PM,https://tradingeconomics.com/united-states/crude-oil-rigs
+2025-11-21T18:00:00+00:00,2025-11-22T03:00:00+09:00,Baker Hughes Total Rigs Count,Total Rigs,1,United States,06:00 PM,https://tradingeconomics.com/united-states/total-rigs
+2025-11-22T16:55:00+00:00,2025-11-23T01:55:00+09:00,Fed Collins Speech,Interest Rate,2,United States,04:55 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-24T15:30:00+00:00,2025-11-25T00:30:00+09:00,Dallas Fed Manufacturing Index,Dallas Fed Manufacturing Index,2,United States,03:30 PM,https://tradingeconomics.com/united-states/dallas-fed-manufacturing-index
+2025-11-24T16:30:00+00:00,2025-11-25T01:30:00+09:00,3-Month Bill Auction,3 Month Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/3-month-bill-yield
+2025-11-24T16:30:00+00:00,2025-11-25T01:30:00+09:00,6-Month Bill Auction,6 Month Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/6-month-bill-yield
+2025-11-24T18:00:00+00:00,2025-11-25T03:00:00+09:00,2-Year Note Auction,2 Year Note Yield,1,United States,06:00 PM,https://tradingeconomics.com/united-states/2-year-note-yield
+2025-11-25T13:15:00+00:00,2025-11-25T22:15:00+09:00,ADP Employment Change Weekly,Adp Employment Change Weekly,2,United States,01:15 PM,https://tradingeconomics.com/united-states/adp-employment-change-weekly
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Core PPI MoM,Core Producer Prices Mom,2,United States,01:30 PM,https://tradingeconomics.com/united-states/core-producer-prices-mom
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Core PPI YoY,Core Producer Prices Yoy,1,United States,01:30 PM,https://tradingeconomics.com/united-states/core-producer-prices-yoy
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,PPI,Producer Prices,1,United States,01:30 PM,https://tradingeconomics.com/united-states/producer-prices
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,"PPI Ex Food, Energy and Trade MoM",Ppi Ex Food Energy And Trade Services Mom,1,United States,01:30 PM,https://tradingeconomics.com/united-states/ppi-ex-food-energy-and-trade-services-mom
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,"PPI Ex Food, Energy and Trade YoY",Ppi Ex Food Energy And Trade Services Yoy,1,United States,01:30 PM,https://tradingeconomics.com/united-states/ppi-ex-food-energy-and-trade-services-yoy
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,PPI MoM,Producer Price Inflation Mom,3,United States,01:30 PM,https://tradingeconomics.com/united-states/producer-price-inflation-mom
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,PPI YoY,Producer Prices Change,1,United States,01:30 PM,https://tradingeconomics.com/united-states/producer-prices-change
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Retail Sales Control Group MoM,Retail Sales Control Group,2,United States,01:30 PM,https://tradingeconomics.com/united-states/retail-sales-control-group
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Retail Sales Ex Autos MoM,Retail Sales Ex Autos,2,United States,01:30 PM,https://tradingeconomics.com/united-states/retail-sales-ex-autos
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Retail Sales Ex Gas/Autos MoM,Retail Sales Ex Gas And Autos Mom,1,United States,01:30 PM,https://tradingeconomics.com/united-states/retail-sales-ex-gas-and-autos-mom
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Retail Sales MoM,Retail Sales Mom,3,United States,01:30 PM,https://tradingeconomics.com/united-states/retail-sales
+2025-11-25T13:30:00+00:00,2025-11-25T22:30:00+09:00,Retail Sales YoY,Retail Sales Yoy,1,United States,01:30 PM,https://tradingeconomics.com/united-states/retail-sales-annual
+2025-11-25T13:55:00+00:00,2025-11-25T22:55:00+09:00,Redbook YoY,Redbook Index,1,United States,01:55 PM,https://tradingeconomics.com/united-states/redbook-index
+2025-11-25T14:00:00+00:00,2025-11-25T23:00:00+09:00,House Price Index,Housing Index,1,United States,02:00 PM,https://tradingeconomics.com/united-states/housing-index
+2025-11-25T14:00:00+00:00,2025-11-25T23:00:00+09:00,House Price Index MoM,House Price Index Mom,1,United States,02:00 PM,https://tradingeconomics.com/united-states/house-price-index-mom
+2025-11-25T14:00:00+00:00,2025-11-25T23:00:00+09:00,House Price Index YoY,House Price Index Yoy,1,United States,02:00 PM,https://tradingeconomics.com/united-states/house-price-index-yoy
+2025-11-25T14:00:00+00:00,2025-11-25T23:00:00+09:00,S&P/Case-Shiller Home Price MoM,Case Shiller Home Price Index Mom,1,United States,02:00 PM,https://tradingeconomics.com/united-states/case-shiller-home-price-index-mom
+2025-11-25T14:00:00+00:00,2025-11-25T23:00:00+09:00,S&P/Case-Shiller Home Price YoY,Case Shiller Home Price Index Yoy,2,United States,02:00 PM,https://tradingeconomics.com/united-states/case-shiller-home-price-index-yoy
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Business Inventories MoM,Business Inventories,2,United States,03:00 PM,https://tradingeconomics.com/united-states/business-inventories
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Pending Home Sales MoM,Pending Home Sales Mom,2,United States,03:00 PM,https://tradingeconomics.com/united-states/pending-home-sales-mom
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Pending Home Sales YoY,Pending Home Sales,2,United States,03:00 PM,https://tradingeconomics.com/united-states/pending-home-sales
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Retail Inventories Ex Autos MoM,Retail Inventories Ex Autos,1,United States,03:00 PM,https://tradingeconomics.com/united-states/retail-inventories-ex-autos
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Richmond Fed Manufacturing Index,Richmond Fed Manufacturing Index,1,United States,03:00 PM,https://tradingeconomics.com/united-states/richmond-fed-manufacturing-index
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Richmond Fed Manufacturing Shipments Index,Richmond Fed Manufacturing Shipments,1,United States,03:00 PM,https://tradingeconomics.com/united-states/richmond-fed-manufacturing-shipments
+2025-11-25T15:00:00+00:00,2025-11-26T00:00:00+09:00,Richmond Fed Services Revenues Index,Richmond Fed Services Index,1,United States,03:00 PM,https://tradingeconomics.com/united-states/richmond-fed-services-index
+2025-11-25T15:30:00+00:00,2025-11-26T00:30:00+09:00,Dallas Fed Services Index,Dallas Fed Services Index,1,United States,03:30 PM,https://tradingeconomics.com/united-states/dallas-fed-services-index
+2025-11-25T15:30:00+00:00,2025-11-26T00:30:00+09:00,Dallas Fed Services Revenues Index,Dallas Fed Services Revenues Index,1,United States,03:30 PM,https://tradingeconomics.com/united-states/dallas-fed-services-revenues-index
+2025-11-25T16:30:00+00:00,2025-11-26T01:30:00+09:00,52-Week Bill Auction,52 Week Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/52-week-bill-yield
+2025-11-25T18:00:00+00:00,2025-11-26T03:00:00+09:00,5-Year Note Auction,5 Year Note Yield,1,United States,06:00 PM,https://tradingeconomics.com/united-states/5-year-note-yield
+2025-11-25T18:00:00+00:00,2025-11-26T03:00:00+09:00,Money Supply,Money Supply M2,1,United States,06:00 PM,https://tradingeconomics.com/united-states/money-supply-m2
+2025-11-25T19:30:00+00:00,2025-11-26T04:30:00+09:00,Monthly Budget Statement,Government Budget Value,2,United States,07:30 PM,https://tradingeconomics.com/united-states/government-budget-value
+2025-11-25T22:30:00+00:00,2025-11-26T07:30:00+09:00,API Crude Oil Stock Change,Api Crude Oil Stock Change,2,United States,10:30 PM,https://tradingeconomics.com/united-states/api-crude-oil-stock-change
+2025-11-26T12:00:00+00:00,2025-11-26T21:00:00+09:00,MBA 30-Year Mortgage Rate,Mortgage Rate,2,United States,12:00 PM,https://tradingeconomics.com/united-states/mortgage-rate
+2025-11-26T12:00:00+00:00,2025-11-26T21:00:00+09:00,MBA Mortgage Applications,Mortgage Applications,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mortgage-applications
+2025-11-26T12:00:00+00:00,2025-11-26T21:00:00+09:00,MBA Mortgage Market Index,Mba Mortgage Market Index,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mba-mortgage-market-index
+2025-11-26T12:00:00+00:00,2025-11-26T21:00:00+09:00,MBA Mortgage Refinance Index,Mba Mortgage Refinance Index,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mba-mortgage-refinance-index
+2025-11-26T12:00:00+00:00,2025-11-26T21:00:00+09:00,MBA Purchase Index,Mba Purchase Index,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mba-purchase-index
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Continuing Jobless Claims,Continuing Jobless Claims,1,United States,01:30 PM,https://tradingeconomics.com/united-states/continuing-jobless-claims
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Durable Goods Orders Ex Transp MoM,Durable Goods Orders Ex Transportation,2,United States,01:30 PM,https://tradingeconomics.com/united-states/durable-goods-orders-ex-transportation
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Durable Goods Orders MoM,Durable Goods Orders,3,United States,01:30 PM,https://tradingeconomics.com/united-states/durable-goods-orders
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Durable Goods Orders ex Defense MoM,Durable Goods Orders Ex Defense,1,United States,01:30 PM,https://tradingeconomics.com/united-states/durable-goods-orders-ex-defense
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Initial Jobless Claims,Initial Jobless Claims,2,United States,01:30 PM,https://tradingeconomics.com/united-states/jobless-claims
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Jobless Claims 4-week Average,Jobless Claims 4-Week Average,1,United States,01:30 PM,https://tradingeconomics.com/united-states/jobless-claims-4-week-average
+2025-11-26T13:30:00+00:00,2025-11-26T22:30:00+09:00,Non Defense Goods Orders Ex Air,Non Defense Capital Goods Orders Ex Aircraft,1,United States,01:30 PM,https://tradingeconomics.com/united-states/non-defense-capital-goods-orders-ex-aircraft
+2025-11-26T14:45:00+00:00,2025-11-26T23:45:00+09:00,Chicago PMI,Chicago Pmi,2,United States,02:45 PM,https://tradingeconomics.com/united-states/chicago-pmi
+2025-11-26T15:00:00+00:00,2025-11-27T00:00:00+09:00,4-Week Bill Auction,4 Week Bill Yield,1,United States,03:00 PM,https://tradingeconomics.com/united-states/4-week-bill-yield
+2025-11-26T15:00:00+00:00,2025-11-27T00:00:00+09:00,8-Week Bill Auction,8 Week Bill Yield,1,United States,03:00 PM,https://tradingeconomics.com/united-states/8-week-bill-yield
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Crude Oil Imports Change,Crude Oil Imports,1,United States,03:30 PM,https://tradingeconomics.com/united-states/crude-oil-imports
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Crude Oil Stocks Change,Crude Oil Stocks Change,2,United States,03:30 PM,https://tradingeconomics.com/united-states/crude-oil-stocks-change
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Cushing Crude Oil Stocks Change,Cushing Crude Oil Stocks,1,United States,03:30 PM,https://tradingeconomics.com/united-states/cushing-crude-oil-stocks
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Distillate Fuel Production Change,Distillate Fuel Production,1,United States,03:30 PM,https://tradingeconomics.com/united-states/distillate-fuel-production
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Distillate Stocks Change,Distillate Stocks,1,United States,03:30 PM,https://tradingeconomics.com/united-states/distillate-stocks
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Gasoline Production Change,Gasoline Production,1,United States,03:30 PM,https://tradingeconomics.com/united-states/gasoline-production
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Gasoline Stocks Change,Gasoline Stocks Change,2,United States,03:30 PM,https://tradingeconomics.com/united-states/gasoline-stocks-change
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Heating Oil Stocks Change,Heating Oil Stocks,1,United States,03:30 PM,https://tradingeconomics.com/united-states/heating-oil-stocks
+2025-11-26T15:30:00+00:00,2025-11-27T00:30:00+09:00,EIA Refinery Crude Runs Change,Refinery Crude Runs,1,United States,03:30 PM,https://tradingeconomics.com/united-states/refinery-crude-runs
+2025-11-26T16:30:00+00:00,2025-11-27T01:30:00+09:00,17-Week Bill Auction,17 Week Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/17-week-bill-yield
+2025-11-26T16:30:00+00:00,2025-11-27T01:30:00+09:00,7-Year Note Auction,7 Year Note Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/7-year-note-yield
+2025-11-26T17:00:00+00:00,2025-11-27T02:00:00+09:00,15-Year Mortgage Rate,15 Year Mortgage Rate,1,United States,05:00 PM,https://tradingeconomics.com/united-states/15-year-mortgage-rate
+2025-11-26T17:00:00+00:00,2025-11-27T02:00:00+09:00,30-Year Mortgage Rate,30 Year Mortgage Rate,1,United States,05:00 PM,https://tradingeconomics.com/united-states/30-year-mortgage-rate
+2025-11-26T17:00:00+00:00,2025-11-27T02:00:00+09:00,EIA Natural Gas Stocks Change,Natural Gas Stocks Change,1,United States,05:00 PM,https://tradingeconomics.com/united-states/natural-gas-stocks-change
+2025-11-26T18:00:00+00:00,2025-11-27T03:00:00+09:00,Baker Hughes Oil Rig Count,Crude Oil Rigs,1,United States,06:00 PM,https://tradingeconomics.com/united-states/crude-oil-rigs
+2025-11-26T18:00:00+00:00,2025-11-27T03:00:00+09:00,Baker Hughes Total Rigs Count,Total Rigs,1,United States,06:00 PM,https://tradingeconomics.com/united-states/total-rigs
+2025-11-26T19:00:00+00:00,2025-11-27T04:00:00+09:00,Fed Beige Book,Interest Rate,1,United States,07:00 PM,https://tradingeconomics.com/united-states/interest-rate
+2025-11-28T21:30:00+00:00,2025-11-29T06:30:00+09:00,Fed Balance Sheet,Central Bank Balance Sheet,1,United States,09:30 PM,https://tradingeconomics.com/united-states/central-bank-balance-sheet
+2025-12-01T14:45:00+00:00,2025-12-01T23:45:00+09:00,S&P Global Manufacturing PMI Final,Manufacturing Pmi,1,United States,02:45 PM,https://tradingeconomics.com/united-states/manufacturing-pmi
+2025-12-01T15:00:00+00:00,2025-12-02T00:00:00+09:00,ISM Manufacturing Employment,Ism Manufacturing Employment,2,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-manufacturing-employment
+2025-12-01T15:00:00+00:00,2025-12-02T00:00:00+09:00,ISM Manufacturing New Orders,Ism Manufacturing New Orders,1,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-manufacturing-new-orders
+2025-12-01T15:00:00+00:00,2025-12-02T00:00:00+09:00,ISM Manufacturing PMI,Business Confidence,3,United States,03:00 PM,https://tradingeconomics.com/united-states/business-confidence
+2025-12-01T15:00:00+00:00,2025-12-02T00:00:00+09:00,ISM Manufacturing Prices,Ism Manufacturing Prices,1,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-manufacturing-prices
+2025-12-01T16:30:00+00:00,2025-12-02T01:30:00+09:00,3-Month Bill Auction,3 Month Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/3-month-bill-yield
+2025-12-01T16:30:00+00:00,2025-12-02T01:30:00+09:00,6-Month Bill Auction,6 Month Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/6-month-bill-yield
+2025-12-02T13:55:00+00:00,2025-12-02T22:55:00+09:00,Redbook YoY,Redbook Index,1,United States,01:55 PM,https://tradingeconomics.com/united-states/redbook-index
+2025-12-02T15:10:00+00:00,2025-12-03T00:10:00+09:00,RCM/TIPP Economic Optimism Index,Economic Optimism Index,1,United States,03:10 PM,https://tradingeconomics.com/united-states/economic-optimism-index
+2025-12-02T21:30:00+00:00,2025-12-03T06:30:00+09:00,API Crude Oil Stock Change,Api Crude Oil Stock Change,2,United States,09:30 PM,https://tradingeconomics.com/united-states/api-crude-oil-stock-change
+2025-12-03T12:00:00+00:00,2025-12-03T21:00:00+09:00,MBA 30-Year Mortgage Rate,Mortgage Rate,2,United States,12:00 PM,https://tradingeconomics.com/united-states/mortgage-rate
+2025-12-03T12:00:00+00:00,2025-12-03T21:00:00+09:00,MBA Mortgage Applications,Mortgage Applications,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mortgage-applications
+2025-12-03T12:00:00+00:00,2025-12-03T21:00:00+09:00,MBA Mortgage Market Index,Mba Mortgage Market Index,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mba-mortgage-market-index
+2025-12-03T12:00:00+00:00,2025-12-03T21:00:00+09:00,MBA Mortgage Refinance Index,Mba Mortgage Refinance Index,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mba-mortgage-refinance-index
+2025-12-03T12:00:00+00:00,2025-12-03T21:00:00+09:00,MBA Purchase Index,Mba Purchase Index,1,United States,12:00 PM,https://tradingeconomics.com/united-states/mba-purchase-index
+2025-12-03T13:15:00+00:00,2025-12-03T22:15:00+09:00,ADP Employment Change,Adp Employment Change,2,United States,01:15 PM,https://tradingeconomics.com/united-states/adp-employment-change
+2025-12-03T13:30:00+00:00,2025-12-03T22:30:00+09:00,Export Prices MoM,Export Prices Mom,2,United States,01:30 PM,https://tradingeconomics.com/united-states/export-prices-mom
+2025-12-03T13:30:00+00:00,2025-12-03T22:30:00+09:00,Export Prices YoY,Export Prices Yoy,1,United States,01:30 PM,https://tradingeconomics.com/united-states/export-prices-yoy
+2025-12-03T13:30:00+00:00,2025-12-03T22:30:00+09:00,Import Prices MoM,Import Prices Mom,2,United States,01:30 PM,https://tradingeconomics.com/united-states/import-prices-mom
+2025-12-03T13:30:00+00:00,2025-12-03T22:30:00+09:00,Import Prices YoY,Import Prices Yoy,1,United States,01:30 PM,https://tradingeconomics.com/united-states/import-prices-yoy
+2025-12-03T14:45:00+00:00,2025-12-03T23:45:00+09:00,S&P Global Composite PMI Final,Composite Pmi,1,United States,02:45 PM,https://tradingeconomics.com/united-states/composite-pmi
+2025-12-03T14:45:00+00:00,2025-12-03T23:45:00+09:00,S&P Global Services PMI Final,Services Pmi,1,United States,02:45 PM,https://tradingeconomics.com/united-states/services-pmi
+2025-12-03T15:00:00+00:00,2025-12-04T00:00:00+09:00,ISM Services Business Activity,Ism Non Manufacturing Business Activity,1,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-non-manufacturing-business-activity
+2025-12-03T15:00:00+00:00,2025-12-04T00:00:00+09:00,ISM Services Employment,Ism Non Manufacturing Employment,1,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-non-manufacturing-employment
+2025-12-03T15:00:00+00:00,2025-12-04T00:00:00+09:00,ISM Services New Orders,Ism Non Manufacturing New Orders,1,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-non-manufacturing-new-orders
+2025-12-03T15:00:00+00:00,2025-12-04T00:00:00+09:00,ISM Services PMI,Non Manufacturing Pmi,3,United States,03:00 PM,https://tradingeconomics.com/united-states/non-manufacturing-pmi
+2025-12-03T15:00:00+00:00,2025-12-04T00:00:00+09:00,ISM Services Prices,Ism Non Manufacturing Prices,1,United States,03:00 PM,https://tradingeconomics.com/united-states/ism-non-manufacturing-prices
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Crude Oil Imports Change,Crude Oil Imports,1,United States,03:30 PM,https://tradingeconomics.com/united-states/crude-oil-imports
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Crude Oil Stocks Change,Crude Oil Stocks Change,2,United States,03:30 PM,https://tradingeconomics.com/united-states/crude-oil-stocks-change
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Cushing Crude Oil Stocks Change,Cushing Crude Oil Stocks,1,United States,03:30 PM,https://tradingeconomics.com/united-states/cushing-crude-oil-stocks
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Distillate Fuel Production Change,Distillate Fuel Production,1,United States,03:30 PM,https://tradingeconomics.com/united-states/distillate-fuel-production
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Distillate Stocks Change,Distillate Stocks,1,United States,03:30 PM,https://tradingeconomics.com/united-states/distillate-stocks
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Gasoline Production Change,Gasoline Production,1,United States,03:30 PM,https://tradingeconomics.com/united-states/gasoline-production
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Gasoline Stocks Change,Gasoline Stocks Change,2,United States,03:30 PM,https://tradingeconomics.com/united-states/gasoline-stocks-change
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Heating Oil Stocks Change,Heating Oil Stocks,1,United States,03:30 PM,https://tradingeconomics.com/united-states/heating-oil-stocks
+2025-12-03T15:30:00+00:00,2025-12-04T00:30:00+09:00,EIA Refinery Crude Runs Change,Refinery Crude Runs,1,United States,03:30 PM,https://tradingeconomics.com/united-states/refinery-crude-runs
+2025-12-03T16:30:00+00:00,2025-12-04T01:30:00+09:00,17-Week Bill Auction,17 Week Bill Yield,1,United States,04:30 PM,https://tradingeconomics.com/united-states/17-week-bill-yield
+2025-12-04T12:30:00+00:00,2025-12-04T21:30:00+09:00,Challenger Job Cuts,Challenger Job Cuts,1,United States,12:30 PM,https://tradingeconomics.com/united-states/challenger-job-cuts
+2025-12-04T13:30:00+00:00,2025-12-04T22:30:00+09:00,Continuing Jobless Claims,Continuing Jobless Claims,1,United States,01:30 PM,https://tradingeconomics.com/united-states/continuing-jobless-claims
+2025-12-04T13:30:00+00:00,2025-12-04T22:30:00+09:00,Initial Jobless Claims,Initial Jobless Claims,2,United States,01:30 PM,https://tradingeconomics.com/united-states/jobless-claims
+2025-12-04T13:30:00+00:00,2025-12-04T22:30:00+09:00,Jobless Claims 4-week Average,Jobless Claims 4-Week Average,1,United States,01:30 PM,https://tradingeconomics.com/united-states/jobless-claims-4-week-average
