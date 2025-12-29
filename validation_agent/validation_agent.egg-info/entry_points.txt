@@ -1,2 +1,0 @@
-[console_scripts]
-validate-script = validation_agent.main:main
